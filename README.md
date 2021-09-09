@@ -1,5 +1,19 @@
 [![](https://github.com/Eleks-front-camp/front-camp-2021/actions/workflows/tests.yml/badge.svg)](https://github.com/Eleks-front-camp/front-camp-2021/actions)
 
+
+<p>Розглянув завдання з 1 по 3</p>
+
+
+
+
+
+
+
+
+
+
+
+
 Привіт!  
 
 Якщо Тобі вдалось склонувати репозиторій і Ти читаєш цей текст, вітаю, це вже 50% успіху.  
